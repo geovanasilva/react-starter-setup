@@ -6,9 +6,20 @@ This is a starter boilerplate react app that I created just for studying purpose
 
 It has a number of nice goodies baked in including:
 
-* React, of course
-* Webpack
+* React
+    - react-dom
 * Babel
+    - @babel/core
+    - @babel/preset-env
+    - @babel/preset-react
+* Webpack
+    - babel-loader
+    - css-loader
+    - style-loader
+    - sass-loader
+    - node-sass
+* Webpack-cli
+* Webpack-dev-server
 
 🚧 Under construction
 
