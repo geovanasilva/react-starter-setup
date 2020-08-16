@@ -4,9 +4,9 @@
   "description": "This is a starter boilerplate react app that I created just for studying purpose.",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "webpack --mode=development",
-    "build": "webpack --mode=production",
-    "dev": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "dev": "webpack --mode=development",
+    "build": "webpack --mode=production"
   },
   "repository": {
     "type": "git",
